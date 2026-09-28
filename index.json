@@ -1,0 +1,11 @@
+{
+  "org": "asimov-modules",
+  "repo": "asimov-apify-module",
+  "versions": [
+    {
+      "commit": "819117270aa373a7fc99b955918a97e1565217f9",
+      "tag": "0.1.4",
+      "parsed_at": "2026-09-28T07:16:51.447133+00:00"
+    }
+  ]
+}
